@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hello, I'm AgosVera👋</h1>
 </div>
-<img width="1200" height="480" alt="Twitch Banner Offline Organico Azul Negro" src="https://github.com/user-attachments/assets/e3717132-2f49-4752-a01c-b04841a748fb" />
+"<img width="1629" height="656" alt="image" src="https://github.com/user-attachments/assets/0812ea58-4599-4f1c-a62d-b6b06b786e5b" />
+" />
 
 <!-- [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield) -->
